@@ -6,6 +6,6 @@
 
 Чтобы запустить игру наберите в консоли 
 
-```ruby magic_ball.rb```
+    $ruby magic_ball.rb
 
 нажмите **Enter (Ввод).**
